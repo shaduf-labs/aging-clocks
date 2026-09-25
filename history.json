@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "pro-v02-research-001",
+      "status": "completed",
+      "started_at": "2026-09-21",
+      "completed_at": "2026-09-21T02:24:50+07:00",
+      "title": "First Aging Clocks Catalog research foundation",
+      "summary": "Useful evidence begins with what a clock was trained to estimate—and the decision you need it to inform.",
+      "answer_change": "meaningful_change",
+      "report_path": "/p/aging-clocks/research/first-release-foundation/",
+      "entrypoint": "research/first-release-foundation/index.html"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "status": "current",
+  "current_answer": "An aging clock is a model applied to a measurement. Its result can describe age resemblance, a health-related phenotype, risk or pace. Similar-looking numbers do not necessarily answer the same question.",
+  "summary": [
+    "Selected models have external prognostic evidence; controlled interventions show responsive and nonresponsive measures. A carefully chosen exploratory endpoint can help a study even when it is not a validated surrogate for health benefit.",
+    "The rentosertib case applied six clocks to measured serum from a human idiopathic pulmonary fibrosis trial. It supports further biomarker investigation—not six independent demonstrations of geroprotection.",
+    "A mortality score can rank outcomes better in a study without providing calibrated individual risk or proving that using the test improves care."
+  ],
+  "uncertainty": [
+    "The review is selective, not a systematic census; it does not identify one true age or an overall best clock.",
+    "The documentary audit did not establish that buying a testing-and-advice package improves long-term outcomes relative to a realistic no-test alternative."
+  ],
+  "checked_at": "2026-09-21",
+  "meaningfully_updated_at": "2026-09-21T03:27:39+07:00",
+  "freshness_note": "Evidence observed 21 September 2026. A bounded documentary review, not a diagnostic or treatment service.",
+  "catalogue_card": {
+    "question": "What can an aging clock tell me?",
+    "text": "Useful evidence begins with what a clock was trained to estimate—and the decision you need it to inform."
+  }
+}
