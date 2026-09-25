@@ -71,12 +71,12 @@
       "evidence_id": "source-007",
       "source_type": "documentary_source",
       "source_url": "https://doi.org/10.1038/s43587-022-00357-y",
-      "title": "Waziry et al. (2023), CALERIE DNA methylation analysis",
-      "claim": "M25. Waziry et al. (2023), CALERIE DNA methylation analysis Relevant primary methods/results, analysis population and null outcomes inspected through publisher-supplied full text delivered on ResearchGate; not a longevity-outcome trial.",
+      "title": "Waziry et al. (2023), CALERIE methylation-clock analysis",
+      "claim": "R09. Waziry et al. (2023), CALERIE methylation-clock analysis Relevant methods, sample handling and university-hosted publisher article and supplement, Tables S3/S4 inspected on 22 September 2026. Rounded group summaries were back-converted, not individual-level models rerun. Baseline dispersion is not technical error; trial/model-author evidence is not independent consumer-service validation.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-22",
       "publication_basis": "linked-summary",
-      "source_label": "M25"
+      "source_label": "R09"
     },
     {
       "evidence_id": "source-008",
@@ -526,7 +526,8 @@
       "claim": "C06. GlycanAge terms Relevant processing and failure remedies inspected. The privacy body did not render; the separate refund route was not reliably retrieved.",
       "relation": "context",
       "accessed_at": "2026-09-21",
-      "publication_basis": "linked-summary"
+      "publication_basis": "linked-summary",
+      "source_label": "C06"
     },
     {
       "evidence_id": "source-049",
@@ -536,7 +537,8 @@
       "claim": "C06. GlycanAge terms Relevant processing and failure remedies inspected. The privacy body did not render; the separate refund route was not reliably retrieved.",
       "relation": "context",
       "accessed_at": "2026-09-21",
-      "publication_basis": "linked-summary"
+      "publication_basis": "linked-summary",
+      "source_label": "C06"
     },
     {
       "evidence_id": "source-050",
@@ -546,7 +548,8 @@
       "claim": "C09. Tally privacy policy Retention/sharing clauses and programme terms inspected; current membership total and all jurisdictional details not established.",
       "relation": "context",
       "accessed_at": "2026-09-21",
-      "publication_basis": "linked-summary"
+      "publication_basis": "linked-summary",
+      "source_label": "C09"
     },
     {
       "evidence_id": "source-051",
@@ -563,30 +566,143 @@
       "source_type": "documentary_source",
       "source_url": "https://github.com/dayoonkwon/BioAge/blob/master/R/phenoage_calc.R",
       "title": "phenoage_calc.R",
-      "claim": "phenoage_calc.R : 468e95b32b23a48566a8f3e266a4a103330c25ff",
+      "claim": "R15. BioAge calculation sources: phenoage_calc.R , kdm_calc.R and hd_calc.R . Complete files reread on 22 September 2026; the inspected blobs remain those listed above. Fixed synthetic arithmetic was checked separately; the R package was not run and no independent author-supplied reference vector or service-specific covariance was obtained.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
-      "publication_basis": "linked-summary"
+      "accessed_at": "2026-09-22",
+      "publication_basis": "linked-summary",
+      "source_label": "R15"
     },
     {
       "evidence_id": "source-053",
       "source_type": "documentary_source",
       "source_url": "https://github.com/dayoonkwon/BioAge/blob/master/R/kdm_calc.R",
       "title": "kdm_calc.R",
-      "claim": "kdm_calc.R : 0ea6c1d1c2399e331fd6ebad2216648c42e7169a",
+      "claim": "R15. BioAge calculation sources: phenoage_calc.R , kdm_calc.R and hd_calc.R . Complete files reread on 22 September 2026; the inspected blobs remain those listed above. Fixed synthetic arithmetic was checked separately; the R package was not run and no independent author-supplied reference vector or service-specific covariance was obtained.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
-      "publication_basis": "linked-summary"
+      "accessed_at": "2026-09-22",
+      "publication_basis": "linked-summary",
+      "source_label": "R15"
     },
     {
       "evidence_id": "source-054",
       "source_type": "documentary_source",
       "source_url": "https://github.com/dayoonkwon/BioAge/blob/master/R/hd_calc.R",
       "title": "hd_calc.R",
-      "claim": "hd_calc.R : 84d51d0121f2fdfbf98cc837e179e32f4317bc9d .",
+      "claim": "R15. BioAge calculation sources: phenoage_calc.R , kdm_calc.R and hd_calc.R . Complete files reread on 22 September 2026; the inspected blobs remain those listed above. Fixed synthetic arithmetic was checked separately; the R package was not run and no independent author-supplied reference vector or service-specific covariance was obtained.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
-      "publication_basis": "linked-summary"
+      "accessed_at": "2026-09-22",
+      "publication_basis": "linked-summary",
+      "source_label": "R15"
+    },
+    {
+      "evidence_id": "source-055",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://link.springer.com/article/10.1038/s43587-022-00248-2",
+      "title": "Higgins-Chen et al. (2022), principal-component clock reliability",
+      "claim": "R01. Higgins-Chen et al. (2022), principal-component clock reliability Abstract and extended-data/replicate descriptions inspected, not full methods. Improved agreement in specified experiments is model-development evidence, not a portable consumer threshold.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R01"
+    },
+    {
+      "evidence_id": "source-056",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://link.springer.com/article/10.1186/s13148-018-0556-2",
+      "title": "McEwen et al. (2018), EPIC/450K clock assessment",
+      "claim": "R03. McEwen et al. (2018), EPIC/450K clock assessment Relevant methods/results/discussion inspected, including normalization and the post-bisulfite-conversion technical split. No raw-array reproduction; its age-error-based heuristic is not adopted as an individual detection threshold.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R03"
+    },
+    {
+      "evidence_id": "source-057",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12238762/",
+      "title": "Zhuang et al. (2025), EPIC-version differences in methylation tools",
+      "claim": "R04. Zhuang et al. (2025), EPIC-version differences in methylation tools Relevant methods/results and the analysis code inspected, including separate and pooled calibration; code read, not executed. The synthetic constant-offset example is catalog arithmetic, not this study’s participant result.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R04"
+    },
+    {
+      "evidence_id": "source-058",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/kobor-lab/EPICv1v2_comparison_manuscript/blob/main/EPICv1v2_analysis.Rmd",
+      "title": "analysis code",
+      "claim": "R04. Zhuang et al. (2025), EPIC-version differences in methylation tools Relevant methods/results and the analysis code inspected, including separate and pooled calibration; code read, not executed. The synthetic constant-offset example is catalog arithmetic, not this study’s participant result.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R04"
+    },
+    {
+      "evidence_id": "source-059",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://link.springer.com/article/10.1038/s42003-025-08021-y",
+      "title": "Tay et al. (2025), DNAm age differences across EPIC versions and specimens",
+      "claim": "R05. Tay et al. (2025), DNAm age differences across EPIC versions and specimens Relevant methods/results/conflicts and Supplementary Table S4 inspected. Same extracted DNA, 16 paired samples per specimen, ages 40–60, 14 Chinese participants; EPICv2 imputation was part of the pipeline. Rounded aggregate reconstruction, not raw-data reproduction. Main-text/S4 and normalization-reference discrepancies remain unresolved. Disclosures include clock-foundation and advisory roles.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R05"
+    },
+    {
+      "evidence_id": "source-060",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://cenl.ucsd.edu/labspace/JclubLabMeetings/Carlo-Long-term-caloric-aging%2Bwaziri-2023.pdf",
+      "title": "university-hosted publisher article and supplement, Tables S3/S4",
+      "claim": "R09. Waziry et al. (2023), CALERIE methylation-clock analysis Relevant methods, sample handling and university-hosted publisher article and supplement, Tables S3/S4 inspected on 22 September 2026. Rounded group summaries were back-converted, not individual-level models rerun. Baseline dispersion is not technical error; trial/model-author evidence is not independent consumer-service validation.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R09"
+    },
+    {
+      "evidence_id": "source-061",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8554621/",
+      "title": "Huang et al. (2021), preanalytical variability of inflammatory-protein measurement",
+      "claim": "R11. Huang et al. (2021), preanalytical variability of inflammatory-protein measurement Relevant delay, donor, control and results sections inspected. Small EDTA-plasma, panel-specific study with Olink affiliation; no aging-clock predictions calculated and no finding about a particular IPF trial’s processing.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R11"
+    },
+    {
+      "evidence_id": "source-062",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://media.springernature.com/original/springer-static/esm/art:10.1038%2Fs42003-025-08021-y/MediaObjects/42003_2025_8021_MOESM1_ESM.pdf",
+      "title": "Supplementary Table S4 (PDF page 3)",
+      "claim": "R05. Tay et al. (2025), DNAm age differences across EPIC versions and specimens Published 23 April 2025. Relevant methods/results/conflicts and Supplementary Table S4 (PDF page 3) inspected. Reconstruction uses rounded S4 aggregates, not individual predictions or raw methylation; the added mean interval is conditional on the assumptions shown beside it. Main-text/S4 SD discrepancies in other rows and a normalization-reference inconsistency remain unresolved; no source preprocessing was independently reproduced. Disclosures include clock-foundation and advisory roles.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R05"
+    },
+    {
+      "evidence_id": "source-063",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/acel.14170",
+      "title": "Koncevičius et al. (2024), circadian variation in epigenetic age",
+      "claim": "R08. Koncevičius et al. (2024), circadian variation in epigenetic age Relevant design/results and limits inspected, including the one-person dense series and stress-experiment origin of the separate paired dataset. No universal daily amplitude or personal threshold inferred.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R08"
+    },
+    {
+      "evidence_id": "source-064",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/35598103/",
+      "title": "Haslam et al. (2022), plasma-proteomics reproducibility",
+      "claim": "R10. Haslam et al. (2022), plasma-proteomics reproducibility Primary abstract and disclosures inspected; full methods not recovered. Assay-profile findings, not an executed clock-level covariance or repeatability analysis.",
+      "accessed_at": "2026-09-22",
+      "source_label": "R10"
     }
   ]
 }

@@ -11,6 +11,17 @@
       "answer_change": "meaningful_change",
       "report_path": "/p/aging-clocks/research/first-release-foundation/",
       "entrypoint": "research/first-release-foundation/index.html"
+    },
+    {
+      "run_id": "pro-v02-research-002",
+      "status": "completed",
+      "started_at": "2026-09-22T00:29:49Z",
+      "completed_at": "2026-09-22T08:03:24+07:00",
+      "title": "Reliability, portability and meaningful change",
+      "summary": "Interpret a change only after fixing the clock version, assay pipeline, score unit, repeatability and decision threshold.",
+      "answer_change": "meaningful_change",
+      "report_path": "/p/aging-clocks/research/reliability-portability/",
+      "entrypoint": "research/reliability-portability/index.html"
     }
   ]
 }

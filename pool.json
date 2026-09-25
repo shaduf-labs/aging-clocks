@@ -9,7 +9,7 @@
   "description": "Useful evidence begins with what a clock was trained to estimate—and the decision you need it to inform.",
   "cadence": "Updated as new research is ready",
   "release_state": "live",
-  "latest_research_at": "2026-09-21T02:24:50+07:00",
+  "latest_research_at": "2026-09-22T08:03:24+07:00",
   "evidence_scope": "A bounded documentary review, not a diagnostic or treatment service.",
   "methodology_summary": "Match the outcome to the specimen, assay, population and implementation, then ask what it adds to age and an appropriate ordinary comparator.",
   "public_repo": "https://github.com/shaduf-labs/aging-clocks",
