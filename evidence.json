@@ -41,7 +41,7 @@
       "title": "Kuo et al. (2024), Proteomic aging clock (PAC)",
       "claim": "SC6. Kuo et al. (2024), Proteomic aging clock (PAC) Primary cohort, selection, Gompertz target and train/test passages; full coefficients and ancillary-trial artifact not verified.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC6"
     },
@@ -63,7 +63,7 @@
       "title": "Argentieri et al. (2024), Proteomic aging clock predicts mortality and disease risk",
       "claim": "SC4. Argentieri et al. (2024), Proteomic aging clock predicts mortality and disease risk Primary training, external validation and covariate passages inspected through publisher-provided text delivered on ResearchGate. No model execution.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC4"
     },
@@ -94,9 +94,9 @@
       "source_type": "documentary_source",
       "source_url": "https://www.nature.com/articles/s41587-026-03286-y",
       "title": "Zhavoronkov et al. (2026), Proteomic clocks in a phase 2a trial",
-      "claim": "SC1. Zhavoronkov et al. (2026), Proteomic clocks in a phase 2a trial Published 7 September 2026. Primary results, methods, availability, conflicts and supplement descriptions inspected; numerical supplements not retrieved. Developer-led; Insilico Medicine interests disclosed.",
+      "claim": "SC1. Zhavoronkov et al. (2026), Proteomic clocks in a phase 2a trial Published 7 September 2026. Follow-up inspection on 26 September covered relevant full results/methods, Figure 3, extended-data captions, availability and supplement descriptions, including the 100,000-randomization caption. Actual S2–S5 spreadsheet rows and permutation were not independently reproduced. Developer-led; Insilico and model-author interests disclosed.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC1"
     },
@@ -105,9 +105,9 @@
       "source_type": "documentary_source",
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12353801/",
       "title": "Xu et al. (2025), A generative AI-discovered TNIK inhibitor for IPF: randomized phase 2a trial",
-      "claim": "SC2. Xu et al. (2025), A generative AI-discovered TNIK inhibitor for IPF: randomized phase 2a trial Primary registration, disposition, endpoints, safety and protocol-access text inspected; protocol, statistical analysis plan and registry history not obtained. Sponsor/developer interests apply.",
+      "claim": "SC2. Xu et al. (2025), A generative AI-discovered TNIK inhibitor for IPF: randomized phase 2a trial Published 3 June 2025. Follow-up inspection on 26 September covered disposition, FVC/safety, statistical methods and registration. Public parent-protocol evidence is now available (S04); the final analysis-plan chronology and raw clinical analysis remain unreproduced. Sponsor/developer interests apply.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC2"
     },
@@ -327,7 +327,7 @@
       "title": "Goeminne et al. (online 2024; issue 2025), Plasma protein-based organ-specific aging and mortality models",
       "claim": "SC7. Goeminne et al. (online 2024; issue 2025), Plasma protein-based organ-specific aging and mortality models Primary abstract and publisher results excerpts, not full coefficient tables or frozen trial implementations.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC7"
     },
@@ -338,7 +338,7 @@
       "title": "ProteoClock README",
       "claim": "SC3. ProteoClock README First-party access description observed 21 September 2026; inspected blob f41e85c59b1ffeec6b8da66fb7029dd4cd77f30a. Exact release-to-trial pin and full licence tree not audited.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC3"
     },
@@ -371,7 +371,7 @@
       "title": "Galkin et al. (2025), AI-driven toolset for IPF and aging research",
       "claim": "SC5. Galkin et al. (2025), AI-driven toolset for IPF and aging research Primary clock, expression-generation and external-disease-data passages; developer-affiliated evidence. No weights obtained or run.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-26",
       "publication_basis": "linked-summary",
       "source_label": "SC5"
     },
@@ -655,10 +655,10 @@
       "relation": "context",
       "publication_basis": "linked-summary",
       "source_url": "https://cenl.ucsd.edu/labspace/JclubLabMeetings/Carlo-Long-term-caloric-aging%2Bwaziri-2023.pdf",
-      "title": "university-hosted publisher article and supplement, Tables S3/S4",
-      "claim": "R09. Waziry et al. (2023), CALERIE methylation-clock analysis Relevant methods, sample handling and university-hosted publisher article and supplement, Tables S3/S4 inspected on 22 September 2026. Rounded group summaries were back-converted, not individual-level models rerun. Baseline dispersion is not technical error; trial/model-author evidence is not independent consumer-service validation.",
-      "accessed_at": "2026-09-22",
-      "source_label": "R09"
+      "title": "Waziry et al. (2023), CALERIE article and supplement",
+      "claim": "S08. Waziry et al. (2023), CALERIE article and supplement University-hosted publisher text; relevant methods, Tables S4/S6 and Figure S4 inspected on 26 September 2026. Forty rounded comparison summaries support the catalog’s bounded arithmetic, not participant-level model or mediation replication. Trial/model-author interests do not establish independent consumer-service validation.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S08"
     },
     {
       "evidence_id": "source-061",
@@ -703,6 +703,105 @@
       "claim": "R10. Haslam et al. (2022), plasma-proteomics reproducibility Primary abstract and disclosures inspected; full methods not recovered. Assay-profile findings, not an executed clock-level covariance or repeatability analysis.",
       "accessed_at": "2026-09-22",
       "source_label": "R10"
+    },
+    {
+      "evidence_id": "source-065",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://media.springernature.com/original/springer-static/esm/art:10.1038%2Fs41587-026-03286-y/MediaObjects/41587_2026_3286_MOESM1_ESM.pdf",
+      "title": "Ancillary Reporting Summary",
+      "claim": "S03. Ancillary Reporting Summary Four-page publisher form, dated July 2026; sample exclusion, downstream analysis blinding, software versions and public protocol link inspected. A retrospective reporting form, not an advance analysis plan.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S03"
+    },
+    {
+      "evidence_id": "source-066",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://cdn.clinicaltrials.gov/large-docs/20/NCT05938920/Prot_000.pdf",
+      "title": "Public parent protocol INS018-055-003",
+      "claim": "S04. Public parent protocol INS018-055-003 Relevant revision history, sampling and embedded statistical sections inspected in the 110-page registry-hosted file. Mixed February/August 2024 version headers and the planned week-8 sample remain unresolved. Not a complete historical chain or an independently authenticated final statistical analysis plan.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S04"
+    },
+    {
+      "evidence_id": "source-067",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://media.springernature.com/original/springer-static/esm/art:10.1038%2Fs41587-026-03286-y/MediaObjects/41587_2026_3286_MOESM2_ESM.pdf",
+      "title": "Ancillary transparent peer-review exchange",
+      "claim": "S05. Ancillary transparent peer-review exchange Relevant author/reviewer discussions of selection, adverse events, permutation, removed overlap analysis, sampling and disease-versus-aging interpretation inspected. Author explanations are not independent replication; removed analyses are not final evidence.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S05"
+    },
+    {
+      "evidence_id": "source-068",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05938920",
+      "title": "WHO ICTRP representation of NCT05938920",
+      "claim": "S06. WHO ICTRP representation of NCT05938920 Displayed record inspected; refreshed 5 January 2026, protocol INS018-055-003. Selected registry fields, not a complete change history or verification of current recruitment status.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S06"
+    },
+    {
+      "evidence_id": "source-069",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://trialsearch.who.int/Trial2.aspx?TrialID=NCT05975983",
+      "title": "WHO ICTRP representation of NCT05975983",
+      "claim": "S07. WHO ICTRP representation of NCT05975983 Displayed record inspected; refreshed 24 November 2025, protocol INS018-055-004. A different trial, not an alternative registration for the 71-person parent cohort.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S07"
+    },
+    {
+      "evidence_id": "source-070",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/danbelsky/CALERIE_ClocksAnalysis",
+      "title": "CALERIE author code",
+      "claim": "S09. CALERIE author code Inspected tree db56e58a7546934f3d9f2c5764cc8ddaa5894a9c. Data and mediation files read completely; relevant primary-analysis sections read. No Stata model executed. Current-code concerns do not establish which revision produced the published figure or prove an error in its numerical results.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S09"
+    },
+    {
+      "evidence_id": "source-071",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/JackieHanLab/PAOPAC/blob/main/README.md",
+      "title": "PAOPAC author README",
+      "claim": "S14. PAOPAC author README Complete text inspected on 26 September 2026, blob ba5d4a8ee7ce2107d8fe34f1dbe24b40dc2da5f0. Input/platform requirements were read; compiled module and separate binary model were not obtained or run. Full preprint methods, exact trial-artifact correspondence and permission for public deployment remain unverified.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S14"
+    },
+    {
+      "evidence_id": "source-072",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://www.fda.gov/drugs/development-resources/surrogate-endpoint-resources-drug-and-biologic-development",
+      "title": "FDA surrogate endpoint resources",
+      "claim": "S10. FDA surrogate endpoint resources Official context-of-use framework inspected on 26 September 2026. Evidence requirements, not a comprehensive regulatory-status determination for named aging clocks.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S10"
+    },
+    {
+      "evidence_id": "source-073",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://imai.fas.harvard.edu/research/files/BaronKenny.pdf",
+      "title": "Imai, Keele and Tingley (2010), A General Approach to Causal Mediation Analysis",
+      "claim": "S11. Imai, Keele and Tingley (2010), A General Approach to Causal Mediation Analysis Primary methodological definitions, identification assumptions and sensitivity discussion inspected. Not additional clinical evidence about either intervention.",
+      "accessed_at": "2026-09-26",
+      "source_label": "S11"
     }
   ]
 }

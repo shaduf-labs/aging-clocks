@@ -22,6 +22,17 @@
       "answer_change": "meaningful_change",
       "report_path": "/p/aging-clocks/research/reliability-portability/",
       "entrypoint": "research/reliability-portability/index.html"
+    },
+    {
+      "run_id": "pro-v02-research-003",
+      "status": "completed",
+      "started_at": "2026-09-25T19:06:47Z",
+      "completed_at": "2026-09-26T11:16:30+07:00",
+      "title": "Intervention evidence and six-clock trial audit",
+      "summary": "The six-clock rentosertib analysis has a reported patient-label randomization check, but its selected 42-person cohort cannot establish aging-specific efficacy.",
+      "answer_change": "meaningful_change",
+      "report_path": "/p/aging-clocks/research/intervention-evidence/",
+      "entrypoint": "research/intervention-evidence/index.html"
     }
   ]
 }

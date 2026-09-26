@@ -5,19 +5,21 @@
   "summary": [
     "The same DNA profiles can produce a material platform offset: in the matched Hannum example reconstructed here, EPIC minus 450K averaged −1.96 years under the stated preprocessing and implementation conditions.",
     "Calibration can remove a shared offset without proving that two platforms are interchangeable. Raw score, age gap and age-adjusted residual are different quantities and should not be mixed.",
-    "A reported before/after change becomes decision evidence only when the exact pipeline is versioned and analytical error, biological variation, construct validity and a prespecified decision threshold are all addressed."
+    "A reported before/after change becomes decision evidence only when the exact pipeline is versioned and analytical error, biological variation, construct validity and a prespecified decision threshold are all addressed.",
+    "The six-clock rentosertib analysis has a reported patient-label randomization check, but its selected 42-person cohort cannot establish aging-specific efficacy."
   ],
   "uncertainty": [
     "The review is selective, not a systematic census; it does not identify one true age or an overall best clock.",
     "The documentary audit did not establish that buying a testing-and-advice package improves long-term outcomes relative to a realistic no-test alternative.",
     "The matched-platform result is implementation-specific, not a universal correction factor; individual commercial pipeline thresholds were not established.",
-    "Some reliability results were reconstructed from reported aggregate values rather than raw participant-level data, so their stated assumptions and rounding limits remain part of the result."
+    "Some reliability results were reconstructed from reported aggregate values rather than raw participant-level data, so their stated assumptions and rounding limits remain part of the result.",
+    "The six-clock analysis uses selected participants and author-reported significance counts; its numerical supplement and permutation were not independently reproduced."
   ],
-  "checked_at": "2026-09-22",
-  "meaningfully_updated_at": "2026-09-22T09:25:51+07:00",
-  "freshness_note": "Foundation evidence observed 21 September 2026; reliability, portability and meaningful-change evidence added 22 September 2026. A bounded documentary review, not a diagnostic or treatment service.",
+  "checked_at": "2026-09-26",
+  "meaningfully_updated_at": "2026-09-26T21:25:58+07:00",
+  "freshness_note": "Foundation reviewed 21 September 2026; reliability and calibration reviewed 22 September 2026; intervention evidence reviewed 26 September 2026. A bounded documentary review, not a diagnostic or treatment service.",
   "catalogue_card": {
     "question": "What can an aging clock tell me?",
-    "text": "Interpret a change only after fixing the clock version, assay pipeline, score unit, repeatability and decision threshold."
+    "text": "The six-clock rentosertib analysis has a reported patient-label randomization check, but its selected 42-person cohort cannot establish aging-specific efficacy."
   }
 }
