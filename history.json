@@ -33,6 +33,17 @@
       "answer_change": "meaningful_change",
       "report_path": "/p/aging-clocks/research/intervention-evidence/",
       "entrypoint": "research/intervention-evidence/index.html"
+    },
+    {
+      "run_id": "pro-v02-research-004",
+      "status": "completed",
+      "started_at": "2026-09-27T13:22:00+07:00",
+      "completed_at": "2026-09-27T18:04:43+07:00",
+      "title": "Do aging clocks add useful information?",
+      "summary": "Keep the same base information, eligible participants, outcome and horizon when testing whether another aging clock adds value.",
+      "answer_change": "meaningful_change",
+      "report_path": "/p/aging-clocks/research/added-value/",
+      "entrypoint": "research/added-value/index.html"
     }
   ]
 }

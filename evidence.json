@@ -118,7 +118,7 @@
       "title": "Deelen et al. (2019), A metabolic profile of all-cause mortality risk",
       "claim": "M11. Deelen et al. (2019), A metabolic profile of all-cause mortality risk Primary results, conventional comparator, FINRISK evaluation and scaling limitation inspected; reported models not rerun.",
       "relation": "context",
-      "accessed_at": "2026-09-21",
+      "accessed_at": "2026-09-27",
       "publication_basis": "linked-summary",
       "source_label": "M11"
     },
@@ -802,6 +802,193 @@
       "claim": "S11. Imai, Keele and Tingley (2010), A General Approach to Causal Mediation Analysis Primary methodological definitions, identification assumptions and sensitivity discussion inspected. Not additional clinical evidence about either intervention.",
       "accessed_at": "2026-09-26",
       "source_label": "S11"
+    },
+    {
+      "evidence_id": "source-074",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://www.nature.com/articles/s41591-025-03798-1",
+      "title": "Oh et al. (2025), Organ-proteomic development and transfer study",
+      "claim": "V04. Oh et al. (2025), Organ-proteomic development and transfer study Relevant full UK Biobank/Stanford, paired-platform and repeat-visit methods/results inspected; no supplementary-coefficient or calibrated-risk replication. Commercial/patent interests disclosed; external cohort evidence is not independent service certification.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V04"
+    },
+    {
+      "evidence_id": "source-075",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://www.nature.com/articles/s43587-025-01016-8",
+      "title": "Wang et al. (online 2025; 2026 issue), Organ-specific proteomic aging clocks",
+      "claim": "V05. Wang et al. (online 2025; 2026 issue), Organ-specific proteomic aging clocks Relevant full cohort, assay, development and Figure 6 comparison passages inspected. No combined-model rerun, calibration audit or recovery of all exclusions. Authors declare no competing interests.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V05"
+    },
+    {
+      "evidence_id": "source-076",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40015764/",
+      "title": "Kivimäki et al. (2025), Whitehall II organ-age follow-up",
+      "claim": "V06. Kivimäki et al. (2025), Whitehall II organ-age follow-up Primary abstract and author list inspected; full methods unavailable. Reported design and cross-organ patterns only, not detailed incremental discrimination or calibration. Investigators overlap the originating work.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V06"
+    },
+    {
+      "evidence_id": "source-077",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://doi.org/10.1038/s43587-025-00897-z",
+      "title": "Whitman et al. (2025), DunedinPACNI",
+      "claim": "V09. Whitman et al. (2025), DunedinPACNI Relevant development, comparator, outcome, limitations and availability passages in the author-hosted publisher PDF inspected; Extended Data Figure 6/caption checked visually. No raw imaging, supplementary numerical table or model execution. Development-team evidence, not consumer validation.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V09"
+    },
+    {
+      "evidence_id": "source-078",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://link.springer.com/article/10.1007/s11357-024-01261-6",
+      "title": "van Holstein et al. (2024), Metabolomic mortality scores in older patients with solid tumors",
+      "claim": "V01. van Holstein et al. (2024), Metabolomic mortality scores in older patients with solid tumors Relevant full methods/results and Table 4 (publisher PDF page 9) inspected. Four combined-model summaries audited; no participant-level ROC, calibration or clinical-benefit reproduction. Several score developers are coauthors.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V01"
+    },
+    {
+      "evidence_id": "source-079",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://link.springer.com/article/10.1007/s11357-026-02412-7",
+      "title": "Lau et al. (2026), A metabolomic clock of population ageing",
+      "claim": "V07. Lau et al. (2026), A metabolomic clock of population ageing Published 21 July. Relevant full training/cohort, LC–MS assay, residualization and mortality-comparison passages inspected. No controlled Airwave/TILDA data acquired; no model or raw ROC reproduction.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V07"
+    },
+    {
+      "evidence_id": "source-080",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://www.nature.com/articles/s41467-025-64275-4",
+      "title": "PpgAge study (2025)",
+      "claim": "V10. PpgAge study (2025) Relevant full device, age/health sample, model, outcome and availability passages inspected. Apple study/developer context; linked repository README was not readable through the attempted route. Untrained code and synthetic material are not trained weights or participant data.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V10"
+    },
+    {
+      "evidence_id": "source-081",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://www.aging-us.com/article/103884/text",
+      "title": "Štambuk et al. (2020), Global IgG glycosylation patterns",
+      "claim": "V11. Štambuk et al. (2020), Global IgG glycosylation patterns Relevant primary geographic/age, specimen and methods passages inspected. Genos affiliations/commercial interests; no universal calibration factor inferred.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V11"
+    },
+    {
+      "evidence_id": "source-082",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/31915204/",
+      "title": "Wittenbecher et al. (2020), Plasma N-glycans and cardiometabolic risk",
+      "claim": "V12. Wittenbecher et al. (2020), Plasma N-glycans and cardiometabolic risk Complete primary abstract inspected. Full comparator definitions, external add-on magnitudes and calibration details unavailable; no numerical gain or clinical threshold inferred.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V12"
+    },
+    {
+      "evidence_id": "source-083",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://www.nature.com/articles/s42003-025-08590-y",
+      "title": "Myers et al. (2025), Microbiome age-prediction comparison",
+      "claim": "V13. Myers et al. (2025), Microbiome age-prediction comparison Relevant full paired 16S/shotgun results, cohort structure and repeated-sample splitting inspected. No microbiome matrix, training or prospective clinical-risk validation rerun.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V13"
+    },
+    {
+      "evidence_id": "source-084",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://cancercenter.arizona.edu/biblio/transcriptional-landscape-age-human-peripheral-blood",
+      "title": "Peters et al. (2015), Blood transcriptomic aging",
+      "claim": "V14. Peters et al. (2015), Blood transcriptomic aging Primary abstract record inspected; earlier expression/prediction passages are inherited in M07. No new locked clinical add-on performance result extracted.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V14"
+    },
+    {
+      "evidence_id": "source-085",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://academic.oup.com/biomedgerontology/article/78/10/1753/7194006",
+      "title": "Kuiper et al. (2023), Epigenetic and metabolomic biomarkers for mortality and frailty",
+      "claim": "V02. Kuiper et al. (2023), Epigenetic and metabolomic biomarkers for mortality and frailty Relevant full methods, combined-model results and acknowledged cohort/feature-selection limits inspected. Original GrimAge and DunedinPoAm, not later versions. No model execution.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V02"
+    },
+    {
+      "evidence_id": "source-086",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/41way5/Organ-PAC",
+      "title": "Organ-PAC author code",
+      "claim": "I02. Organ-PAC author code Tree 7824d1e3e75d00d3fc06cb29a583583861fbf2dd ; README and Fig6.R lines 1–180, blob 89ed32f10642ad3a57f848a570089fa87bf10967 , inspected. Current fit/predict code is not a proven historical execution artifact. Full models, permissions and environment not audited or executed.",
+      "accessed_at": "2026-09-27",
+      "source_label": "I02"
+    },
+    {
+      "evidence_id": "source-087",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/etw11/DunedinPACNI",
+      "title": "DunedinPACNI author implementation",
+      "claim": "I04. DunedinPACNI author implementation Tree 9d5e1229be741a9e12784345ca6daa605ed83432 ; complete README and opening 100 licence lines inspected. README reports package 0.0.0.1, development with FreeSurfer 6 and alternative input variants. CC BY-NC-ND 4.0 software label is distinct from article access. Coefficients/functions not executed; no individual normative or deployment clearance.",
+      "accessed_at": "2026-09-27",
+      "source_label": "I04"
+    },
+    {
+      "evidence_id": "source-088",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/DanieleBizzarri/MiMIR",
+      "title": "MiMIR author implementation",
+      "claim": "I01. MiMIR author implementation Tree 1746f2d98d6d9c3c5bfe35dd42e63b99314cf909 ; README and DESCRIPTION inspected, plus R/predictors_functions.R lines 1–160, blob 262cb5f0387487d149282f13f607cfd23a37de20 . Bundled parameter/data filenames observed, not decoded or individually licensed. No R package execution.",
+      "accessed_at": "2026-09-27",
+      "source_label": "I01"
+    },
+    {
+      "evidence_id": "source-089",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://github.com/hamiltonoh/organageUKB",
+      "title": "Oh organageUKB author code",
+      "claim": "I03. Oh organageUKB author code Tree b49aa385835f19d374d94a37410da1550d655905 ; README and notebook filenames inspected. Notebook bodies, coefficients and complete rights/environment dependencies not independently audited.",
+      "accessed_at": "2026-09-27",
+      "source_label": "I03"
+    },
+    {
+      "evidence_id": "source-090",
+      "source_type": "documentary_source",
+      "relation": "context",
+      "publication_basis": "linked-summary",
+      "source_url": "https://link.springer.com/article/10.1186/s12916-026-05178-z",
+      "title": "van den Berg et al. (2026), Personal-MetaboHealth",
+      "claim": "V08. van den Berg et al. (2026), Personal-MetaboHealth Published 7 September. Relevant full fixed-reference, direction, observational outcome, intervention and limitation passages inspected. Linked code was not retrieved; no coefficient/reference-output audit. The title’s actionability claim is not treated as demonstrated decision benefit.",
+      "accessed_at": "2026-09-27",
+      "source_label": "V08"
     }
   ]
 }
